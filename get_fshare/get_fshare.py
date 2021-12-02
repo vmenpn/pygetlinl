@@ -16,8 +16,8 @@ class FSAPI:
     """
 
     def __init__(self, email, password):
-        self.email = hoaa20092013@gmail.com
-        self.password = Sangphe410!@
+        self.email = milunice259@yahoo.com
+        self.password = 2591987 
         self.token = ""
         self.s = httpx.Client(http2=True)
         self.s.headers["User-Agent"] = "okhttp/3.6.0"
